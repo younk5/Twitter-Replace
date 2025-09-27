@@ -125,14 +125,4 @@ Encontrou um bug ou tem uma sugestão?
 4. Commit suas mudanças
 5. Abra um Pull Request
 
----
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo \`LICENSE\` para mais detalhes.
-
----
-
-## ⭐ Gostou?
-
-Se este plugin foi útil para você, considere dar uma ⭐ no repositório!
